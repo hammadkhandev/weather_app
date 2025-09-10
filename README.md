@@ -71,4 +71,4 @@ Feel free to open an issue or submit a pull request.
 
 ---
 
-Let me know if you’d like to add screenshots, API details, or any other project-specific sections!
+Let me know! if you’d like to add screenshots, API details, or any other project-specific sections!
